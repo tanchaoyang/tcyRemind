@@ -1,0 +1,8 @@
+spring:
+  cloud:
+    consul:
+      host: 127.0.0.1
+      port: 8500
+
+jwt:
+  secret: Y2EwMWFjNjAwZTQ2OWJmODcwMzdhOThjOWFjYmMxMTRkNzg1ZmMzMDY0OWJjZDVkMjU4YmMzMjc2ZDAxYTEyYjI2ZDQ0YTRjMDIyYTc2ZDViMGQ4ZmYwNDRlZjQzMTJkNzQ2NGEyNzQyODYwZmZlOGY2YzY0NmZlM2U0NmE0MjY=
